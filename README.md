@@ -1,5 +1,5 @@
 #  👋 Hello there! I’m Arnaud Guevaer
-<br><br>    🎯 Currently transitioning into web development 💻. .<br><br>    🌟 You like Dragon ball ? go check my clicker game on [Z Warriors Clicker](https://github.com/Arnaud6216/Z-Warriors-Clicker)<br><br>    📫 How to reach me guevaer8@gmail.com<br>
+<br><br>    🎯 Currently transitioning into web development 💻<br><br>    🌟 You like Dragon ball ? go check my clicker game on [Z Warriors Clicker](https://github.com/Arnaud6216/Z-Warriors-Clicker)<br><br>    📫 How to reach me guevaer8@gmail.com<br>
 
 
 ## 🌐 Socials:
