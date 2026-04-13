@@ -1,9 +1,15 @@
-#  👋 Hello there! I’m Arnaud Guevaer
-<br><br>    🎯 Currently transitioning into web development 💻<br><br>    🌟 You like Dragon ball ? go check my clicker game on [Z Warriors Clicker](https://github.com/Arnaud6216/Z-Warriors-Clicker)<br><br>    📫 How to reach me guevaer8@gmail.com<br>
+# Hello there! I’m Arnaud Guevaer
+
+> **💻 Fullstack Web Developer (Alternance)**
+> 
+> 🌟 You like Dragon Ball ? Check out my clicker game : [Z Warriors Clicker](https://github.com/Arnaud6216/Z-Warriors-Clicker)
+
+### 📫 Contact me
+[**guevaer8@gmail.com**](mailto:guevaer8@gmail.com)
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-guevaer-11434a2a9/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaud-guevaer-11434a2a9/) [![Portfolio](https://img.shields.io/badge/My_Portfolio-003366?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://arnaud6216.github.io/Portfolio-pro/)
 
 # 💻 Tech Stack:
 ### 🚀 Frontend & Design
